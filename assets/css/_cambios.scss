@@ -1,0 +1,19 @@
+@use '_commons' as c;
+
+#bloque {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .bloque__2 {
+    padding-top: 40px;
+  }
+  
+  .bloque__2__3 p {
+    font-size: 25px;
+  }
+  
+  .texto {
+    color: c.$sextocolor;
+  }

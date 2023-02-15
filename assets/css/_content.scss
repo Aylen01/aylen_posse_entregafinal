@@ -1,0 +1,14 @@
+@use '_commons' as c;
+
+body {
+    background-color: c.$primercolor;
+  }
+  
+  h1 {
+    margin: 10px;
+    text-align: center;
+    font-family: "Playfair Display SC", serif;
+  }
+  .logo {
+    text-align: center;
+  }
